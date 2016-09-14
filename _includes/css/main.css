@@ -81,7 +81,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #007938;
     background: #{{ site.color.primary }};
 }
 
